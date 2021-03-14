@@ -138,6 +138,7 @@ public class MainActivity extends AppCompatActivity
         {
             Button button = (Button) view;
             binding.editText.setText(binding.editText.getText() + button.getText().toString());
+            Toast.makeText(MainActivity.this, "jenkins", Toast.LENGTH_SHORT).show();
         }
     };
 

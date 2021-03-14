@@ -1,5 +1,7 @@
 package com.bth.calculator.models;
 
+import android.widget.Toast;
+
 public class Calculator
 {
 	public static double sum(double number1, double number2)
@@ -27,5 +29,6 @@ return number1 - number2;
             throw new ArithmeticException("Cannot divide by zero.");
         else
             return result;
+
     }
 }

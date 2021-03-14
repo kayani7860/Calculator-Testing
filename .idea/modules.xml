@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calculator.iml" filepath="$PROJECT_DIR$/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Calculator-Testing.iml" filepath="$PROJECT_DIR$/.idea/modules/Calculator-Testing.iml" group="Calculator-Testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Calculator-Testing-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Calculator-Testing-app.iml" group="Calculator-Testing/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculator-app-master.iml" filepath="$PROJECT_DIR$/.idea/modules/calculator-app-master.iml" group="calculator-app-master" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/calculator-app-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/calculator-app-master-app.iml" group="calculator-app-master/app" />
     </modules>
   </component>
 </project>
