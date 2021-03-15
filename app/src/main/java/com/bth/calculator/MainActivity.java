@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     /**
-     * Concatenates the button text with EditText. This is where i add stuff
+     * Concatenates the button text with EditText. This is where i add stuff now
      */
     private View.OnClickListener _onClickConcatenatesTextListener = new View.OnClickListener()
     {
